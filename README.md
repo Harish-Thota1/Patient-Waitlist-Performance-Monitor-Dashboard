@@ -29,6 +29,23 @@ monitor trends, and prioritise patient care decisions.
 
 ---
 
+## Screenshots
+> 📁 All screenshots are stored in the `images` folder
+
+### Summary Page
+![Summary Page](images/summary-page.png)
+*KPI cards, case type split, age profile breakdown and monthly trend analysis*
+
+### Details Page
+![Details Page](images/details-page.png)
+*Hierarchical matrix showing waitlist breakdown by specialty, age group and wait time band*
+
+### Drill Down Page
+![Drill Down Page](images/drilldown-page.png)
+*Specialty group bar chart with total waitlist card for drillthrough analysis*
+
+---
+
 ## What I Built
 - Engineered a dynamic Average/Median toggle using a DAX driven parameter table, 
   enabling clinicians to switch statistical views instantly without duplicating a 
@@ -92,15 +109,24 @@ monitor trends, and prioritise patient care decisions.
 
 ---
 
-## Screenshots
-![Details Page](screenshots/health-dashboard-details.png)
-![Filter View](screenshots/health-dashboard-filter.png)
-
----
-
 ## Contact
 **Harish Thota**  
 Data Engineer and Business Analyst  
 harishthota001@gmail.com  
 [Portfolio](https://harish-thota1.github.io/Analyst-Portfolio/) · 
 [LinkedIn](https://www.linkedin.com/in/harish-thota/)
+```
+
+---
+
+**Your folder structure should look like this in GitHub:**
+```
+Patient-Waitlist-Dashboard/
+│
+├── images/
+│   ├── summary-page.png
+│   ├── details-page.png
+│   └── drilldown-page.png
+│
+├── Health_Dashboard.pbix
+└── README.md
