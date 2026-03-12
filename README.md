@@ -115,7 +115,7 @@ monitor trends, and prioritise patient care decisions.
 ```
 Patient-Waitlist-Dashboard/
 │
-├── images/
+├── Images/
 │   ├── summary-page.png
 │   ├── details-page.png
 │   └── drilldown-page.png
