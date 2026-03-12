@@ -34,15 +34,15 @@ monitor trends, and prioritise patient care decisions.
 > All screenshots are stored in the `images` folder
 
 ### Summary Page
-![Summary Page](images/summary-page.png)
+![Summary Page](Images/summary-page.png)
 *KPI cards, case type split, age profile breakdown and monthly trend analysis*
 
 ### Details Page
-![Details Page](images/details-page.png)
+![Details Page](Images/details-page.png)
 *Hierarchical matrix showing waitlist breakdown by specialty, age group and wait time band*
 
 ### Drill Down Page
-![Drill Down Page](images/drilldown-page.png)
+![Drill Down Page](Images/drilldown-page.png)
 *Specialty group bar chart with total waitlist card for drillthrough analysis*
 
 ---
