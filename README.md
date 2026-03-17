@@ -128,7 +128,7 @@ Patient-Waitlist-Dashboard/
 
 ## Contact
 **Harish Thota**  
-Data Engineer and Business Analyst  
+Data Engineer and BI Analyst  
 harishthota001@gmail.com
 
 [Portfolio](https://harish-thota1.github.io/Analyst-Portfolio/) · [LinkedIn](https://www.linkedin.com/in/harish-thota/)
